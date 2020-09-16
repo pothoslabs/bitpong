@@ -1,0 +1,19 @@
+# EAGLE Artifacts
+eagle.epf
+*.s#?
+*.b#?
+*.l#?
+*.pro
+*.job
+*.lck
+
+# VS Code
+*.vscode*
+
+# Python
+__pycache__
+*.pyc
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
